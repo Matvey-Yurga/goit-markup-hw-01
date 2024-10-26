@@ -1,3 +1,3 @@
-# my-first-project
+#goit-markup-hw-01
 
-this my project file top
+My first homework assignment from GoIT.
